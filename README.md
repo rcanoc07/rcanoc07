@@ -5,7 +5,6 @@
 - ⚡🚗  Me gustaria colaborar en el desarrollo de contenido libre para simuladores de conducción (mods).
 - 🎮🕹  Mi simulador es mi proyecto personal🤪🧐
 
-- 
 <!--
 **rcanoc07/rcanoc07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
